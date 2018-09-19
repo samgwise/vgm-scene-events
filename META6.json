@@ -1,0 +1,22 @@
+{
+  "authors" : [
+    "Sam Gillespie"
+  ],
+  "build-depends" : [ ],
+  "depends" : [
+    "Reaper::Control",
+    "JSON::Fast"
+  ],
+  "description" : "Trigger events in sync with Reaper",
+  "license" : "Artistic-2.0",
+  "name" : "VGM::Scene::Events",
+  "perl" : "6.c",
+  "provides" : {
+    "VGM::Scene::Events" : "lib/VGM/Scene/Events.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "https://samGwise@bitbucket.org/samGwise/vgm-scene-events.git",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : null
+}
